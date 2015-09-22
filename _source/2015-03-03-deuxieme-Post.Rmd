@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Premier Post"
+categories: [jekyll, rstats]
+tags: [knitr, servr, httpuv, websocket]
+---
+
+Test 
+
+```{r}
+table(mtcars$mpg)
+```
+
