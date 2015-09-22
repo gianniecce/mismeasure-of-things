@@ -3,7 +3,7 @@ description: "Sequence Analysis for Time Use Research"
 
 email: giacomovagni@domain.com
 
-# url: http://nadjetey.github.io/redcup/
+url: http://giacomovagni.github.io/mismeasure-of-things
 port: 3000
 highlighter: pygments
 
