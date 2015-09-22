@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "MTUS - With Whom Variables"
+categories: [sequence, rstats, mean]
+tags: [knitr, servr, httpuv, websocket]
+--- 
+
+### With whom  
+
+Load libraries 
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+library(reshape2)
+library(plyr)
+library(dplyr)
+library(tidyr)
+```
+
+Let us try 
+```{r}
+mtcars %>% 
+  summarise(mean(gear))
+# results 
+```
+
