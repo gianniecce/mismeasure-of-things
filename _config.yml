@@ -3,7 +3,9 @@ description: "Sequence Analysis for Time Use Research"
 
 email: giacomovagni@domain.com
 
-url: http://giacomovagni.github.io/mismeasure-of-things
+baseurl: "/mismeasure-of-things" # the subpath of your site, e.g. /blog/
+url: "http://giacomovagni.github.io" # the base hostname & protocol for your site
+
 port: 3000
 highlighter: pygments
 
